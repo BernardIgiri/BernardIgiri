@@ -1,8 +1,7 @@
 # Bernard Igiri
-I am a full-stack software engineer with over two decades of software development experience. I develop a wide array of software, from high-performance web apps and geospatial tools, to secure platforms and developer-friendly frameworks, to games, libraries, and embedded systems. My work spans Rust, systems programming, web development, cloud infrastructure, and cross-language interoperability. For a detailed bio please visit my blog's about me page at:
-- https://yequalscode.com/about-the-author
-
----
+I am a full-stack software engineer with over two decades of software development experience. I develop a wide array of software, from high-performance web apps and geospatial tools, to secure platforms and developer-friendly frameworks, to games, libraries, and embedded systems. My work spans Rust, systems programming, web development, cloud infrastructure, and cross-language interoperability. For more about me see:
+- [Y = Code, Author Bio](https://yequalscode.com/about-the-author)
+- [LinkedIn](https://www.linkedin.com/in/bernardigiri)
 
 ## 📊 Tech Stack Index
 
